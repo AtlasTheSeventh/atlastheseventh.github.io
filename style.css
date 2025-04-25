@@ -1,0 +1,7 @@
+a {
+	COLOR: cornflowerblue;
+	TEXT-DECORATION: none
+}
+a:hover {
+	TEXT-DECORATION: underline
+}
