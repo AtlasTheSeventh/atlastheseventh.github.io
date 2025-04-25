@@ -1,0 +1,11 @@
+<html>
+<head>
+<link href="style.css" rel=stylesheet>
+</head>
+<body>
+<p align="center">
+<a href="1">&lt</a> <a href="1">[1]</a>[2]<a href="3">[3]</a><a href="4">[4]</a><a href="5">[5]</a><a href="6">[6]</a><a href="7">[7]</a> <a href="3">&gt</a>
+</p>
+<hr>
+</body>
+</html>
