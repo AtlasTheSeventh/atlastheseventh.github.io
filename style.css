@@ -1,0 +1,23 @@
+body{
+	background-color:black;
+}
+a {
+	COLOR: red;
+	FONT-FAMILY: verdana; 
+	FONT-SIZE: 11pt
+}
+a:hover {
+	COLOR: yellow;
+	TEXT-DECORATION: none
+}
+tr {
+	COLOR: green;
+	FONT-FAMILY: verdana;  
+	TEXT-ALIGN: justify; 
+	FONT-SIZE: 11pt
+}	
+p {
+	COLOR: white;
+	FONT-FAMILY: verdana; 
+	FONT-SIZE: 11pt
+}
