@@ -1,0 +1,16 @@
+html {
+	font-size: 50pt
+}
+.center {
+	text-align: center
+	width: 1vw;
+	height: 60vh;
+	background-color: lightgray
+}
+a {
+	color: cornflowerblue;
+	text-decoration: none
+}
+a:hover {
+	text-decoration: underline
+}
